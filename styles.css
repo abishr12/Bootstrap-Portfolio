@@ -1,0 +1,27 @@
+@media screen and (max-width: 980px) {
+  /* The body's bg color will be #333 */
+  body {
+    background-color: orange;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  /* The body's bg color will be #333 */
+  body {
+    background-color: yellow;
+
+  }
+  .col-md-8{
+    max-width: 100%;
+  }
+
+  .col-md-4{
+    max-width: 100%;
+  }
+}
+
+@media screen and (max-width: 640px) {
+  /* The body's bg color will be #333 */
+  body {
+    background-color: green;
+}
