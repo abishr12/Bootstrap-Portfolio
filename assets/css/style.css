@@ -112,10 +112,11 @@ footer {
 
 .sidebar {
   /*float: right;*/
-  width: 100%;
-  max-width: 270px;
+  /*width: 100%;*/
+  /*max-width: 270px;*/
   padding: 30px;
   margin-bottom: 20px;
+  margin-left: 5px;
   background: #fff;
   border: 1px solid #ddd;
 }
@@ -147,8 +148,8 @@ h3,
 
 .main-section {
   /*float: left;*/
-  width: 100%;
-  max-width: 650px;
+  /*width: 100%;*/
+  /*max-width: 650px;*/
   padding: 30px;
   margin: 0 0 40px;
   background: #fff;
@@ -160,7 +161,7 @@ h3,
 .work {
   position: relative;
   float: left;
-  width: 274px;
+  width: 240px;
   margin: 20px 0 25px;
   overflow: auto;
 }
